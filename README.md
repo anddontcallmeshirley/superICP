@@ -1,3 +1,3 @@
 # superICP
 ICP project with Motoko
-super AWESOME
+super AWESOME2
